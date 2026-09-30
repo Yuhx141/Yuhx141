@@ -1,11 +1,12 @@
 # Hi, I'm Yuhx141
 
-I'm learning software testing through open-source robotics projects. My current work focuses on fuzzing and state-aware testing for ROS 2.
+I'm learning compiler construction, program optimization, formal methods, and software testing through open-source projects.
 
-I use this account to document reproducible failures, write small regression tests, and contribute fixes when I can.
+My current interests include:
 
-Current interests:
+- ROS 2 fuzzing and state-aware testing
+- ONNX graph optimization and compiler passes
+- Lean proofs for computation-graph equivalence
+- Reproducible bug reports, regression tests, and open-source fixes
 
-- ROS 2 and robotics middleware
-- Stateful and semantic testing
-- Reproducible bug reports
+I use this account to document what I learn, reduce failures to small test cases, and contribute fixes when I can.
