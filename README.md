@@ -1,5 +1,7 @@
 # Hi, I'm Yuhx141
 
+I'm a Computer Science PhD student at Nanjing University.
+
 I'm learning compiler construction, program optimization, formal methods, and software testing through open-source projects.
 
 My current interests include:
